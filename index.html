@@ -199,10 +199,11 @@ blockquote.gloss { margin: 0.2rem 0 0.8rem; color: var(--muted); font-size: 0.9r
 /* Start page: dailies on top, then one card per game, then the short how-to and the note. */
 .section-label { margin: 1.2rem 0.2rem 0.45rem; font-size: 0.78rem; font-weight: normal; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
 .section-label:first-child { margin-top: 0.3rem; }
-.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 0.6rem; }
-button.tile { display: flex; flex-direction: column; gap: 0.1rem; align-items: center; text-align: center; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 0.7rem 0.5rem; }
-button.tile strong { font-size: 1.05rem; }
-button.tile .status-line { font-size: 0.8rem; color: var(--muted); }
+.tiles { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 0.45rem; }
+button.tile { display: flex; flex-direction: column; gap: 0.1rem; align-items: center; text-align: center; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 0.5rem 0.25rem; line-height: 1.3; }
+button.tile strong { font-size: 0.95rem; }
+button.tile span { font-size: 0.8rem; }
+button.tile .status-line { font-size: 0.72rem; color: var(--muted); }
 button.tile:hover { background: #fbf5e6; }
 .card.game { margin-top: 0.7rem; }
 .card.game h2 { margin: 0 0 0.2rem; font-size: 1.3rem; }
