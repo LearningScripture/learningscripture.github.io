@@ -201,9 +201,12 @@ blockquote.gloss { margin: 0.2rem 0 0.8rem; color: var(--muted); font-size: 0.9r
 .section-label:first-child { margin-top: 0.3rem; }
 .tiles { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 0.45rem; }
 button.tile { display: flex; flex-direction: column; gap: 0.1rem; align-items: center; text-align: center; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 0.5rem 0.25rem; line-height: 1.3; }
-button.tile strong { font-size: 0.95rem; }
-button.tile span { font-size: 0.8rem; }
-button.tile .status-line { font-size: 0.72rem; color: var(--muted); }
+button.tile { min-width: 0; }
+button.tile strong, button.tile span { white-space: nowrap; max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+/* Sized by the screen width as well, so even large system text keeps every label on one line. */
+button.tile strong { font-size: min(0.95rem, 4.2vw); }
+button.tile span { font-size: min(0.8rem, 3.5vw); }
+button.tile .status-line { font-size: min(0.72rem, 3.1vw); color: var(--muted); }
 button.tile:hover { background: #fbf5e6; }
 .card.game { margin-top: 0.7rem; }
 .card.game h2 { margin: 0 0 0.2rem; font-size: 1.3rem; }
