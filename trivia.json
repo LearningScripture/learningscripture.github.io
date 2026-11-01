@@ -1,0 +1,2024 @@
+[
+  {
+    "q": "Who was thrown into the lions' den?",
+    "correct": "Daniel",
+    "wrong": [
+      "Joseph",
+      "David",
+      "Jonah"
+    ],
+    "ref": "Daniel 6",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who built the ark?",
+    "correct": "Noah",
+    "wrong": [
+      "Moses",
+      "Abraham",
+      "David"
+    ],
+    "ref": "Genesis 6:14",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Where was Jesus born?",
+    "correct": "Bethlehem",
+    "wrong": [
+      "Nazareth",
+      "Jerusalem",
+      "Capernaum"
+    ],
+    "ref": "Matthew 2:1",
+    "category": "New Testament"
+  },
+  {
+    "q": "How many disciples did Jesus choose?",
+    "correct": "Twelve",
+    "wrong": [
+      "Seven",
+      "Ten",
+      "Seventy"
+    ],
+    "ref": "Matthew 10:1-4",
+    "category": "New Testament"
+  },
+  {
+    "q": "Who killed Goliath?",
+    "correct": "David",
+    "wrong": [
+      "Saul",
+      "Samson",
+      "Joshua"
+    ],
+    "ref": "1 Samuel 17",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who baptized Jesus?",
+    "correct": "John the Baptist",
+    "wrong": [
+      "Peter",
+      "Paul",
+      "Andrew"
+    ],
+    "ref": "Matthew 3:13-17",
+    "category": "New Testament"
+  },
+  {
+    "q": "How many books are in the Protestant Bible?",
+    "correct": "66",
+    "wrong": [
+      "39",
+      "27",
+      "73"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is the last book of the Bible?",
+    "correct": "Revelation",
+    "wrong": [
+      "Jude",
+      "Acts",
+      "Malachi"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "Who betrayed Jesus with a kiss?",
+    "correct": "Judas Iscariot",
+    "wrong": [
+      "Peter",
+      "Thomas",
+      "Pilate"
+    ],
+    "ref": "Matthew 26:48-49",
+    "category": "New Testament"
+  },
+  {
+    "q": "What is the first book of the Bible?",
+    "correct": "Genesis",
+    "wrong": [
+      "Exodus",
+      "Matthew",
+      "Psalms"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "What was Paul's name before his conversion?",
+    "correct": "Saul",
+    "wrong": [
+      "Simon",
+      "Levi",
+      "Barnabas"
+    ],
+    "ref": "Acts 9:1-19",
+    "category": "New Testament"
+  },
+  {
+    "q": "Who denied Jesus three times?",
+    "correct": "Peter",
+    "wrong": [
+      "Judas",
+      "Thomas",
+      "John"
+    ],
+    "ref": "Matthew 26:69-75",
+    "category": "New Testament"
+  },
+  {
+    "q": "Who led the Israelites out of Egypt?",
+    "correct": "Moses",
+    "wrong": [
+      "Aaron",
+      "Joshua",
+      "Joseph"
+    ],
+    "ref": "Exodus 3–14",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who was swallowed by a great fish?",
+    "correct": "Jonah",
+    "wrong": [
+      "Noah",
+      "Peter",
+      "Paul"
+    ],
+    "ref": "Jonah 1:17",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Where did Peter stay during his ministry in the city of Joppa?",
+    "correct": "In the house of Simon the tanner",
+    "wrong": [
+      "Jericho",
+      "Ur",
+      "Damascus"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Which brother did Joseph imprison while the others returned to Jacob?",
+    "correct": "Simeon",
+    "wrong": [
+      "Timothy",
+      "Job",
+      "Joseph"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who got Joseph thrown into prison by lying about him?",
+    "correct": "Potiphar's wife",
+    "wrong": [
+      "Paul",
+      "John",
+      "Herod"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was the first Christian to die for his faith?",
+    "correct": "Stephen",
+    "wrong": [
+      "Adam",
+      "Isaiah",
+      "Barnabas"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was the father of Abraham?",
+    "correct": "Terah",
+    "wrong": [
+      "Jeremiah",
+      "Samson",
+      "Lazarus"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Which human author wrote the most words in the Bible?",
+    "correct": "Moses wrote 125,139 words.",
+    "wrong": [
+      "Martha",
+      "Samson",
+      "Gideon"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was the name of the ark where the commandments given to Moses were to be kept?",
+    "correct": "Ark of the Covenant",
+    "wrong": [
+      "Sinai",
+      "Judea",
+      "Babylon"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "After being left behind in Berea, in which city did Silas and Timothy meet up with Paul?",
+    "correct": "Corinth",
+    "wrong": [
+      "Proverbs",
+      "Job",
+      "Exodus"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "In which city in Judah did Cyrus tell the Israelites to build the temple?",
+    "correct": "Jerusalem",
+    "wrong": [
+      "Damascus",
+      "Samaria",
+      "Nazareth"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What miracle did Jesus perform at the marriage in Cana?",
+    "correct": "Water into wine",
+    "wrong": [
+      "Job",
+      "Esau",
+      "Abraham"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What occasion did David write Psalm 105 for?",
+    "correct": "Bringing the ark back to Jerusalem",
+    "wrong": [
+      "Egypt",
+      "Damascus",
+      "Babylon"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Which honorable counselor was waiting for the Kingdom of God?",
+    "correct": "Joseph of Arimathea",
+    "wrong": [
+      "Isaiah",
+      "John",
+      "Aaron"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was Saul's punishment for disobeying?",
+    "correct": "God took his kingdom away",
+    "wrong": [
+      "They prayed for them",
+      "John",
+      "Joseph"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What golden image did the Israelites make at Mt. Sinai?",
+    "correct": "A golden calf",
+    "wrong": [
+      "Peter",
+      "John",
+      "David"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "When Jacob met Laban, which daughter did he want to marry?",
+    "correct": "Rachel.",
+    "wrong": [
+      "Andrew",
+      "Seven",
+      "Joseph"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Even though Abram and Sarah were too old, what did God promise them?",
+    "correct": "A son",
+    "wrong": [
+      "They sent them away",
+      "Solomon",
+      "They gave gifts"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "To whom was the Revelation of Jesus Christ given?",
+    "correct": "John",
+    "wrong": [
+      "Solomon",
+      "Samson",
+      "Joshua"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What did God create on the first day?",
+    "correct": "Light",
+    "wrong": [
+      "Animals",
+      "Man",
+      "The sea"
+    ],
+    "ref": "Genesis 1:3-5",
+    "category": "Old Testament"
+  },
+  {
+    "q": "What river was Jesus baptized in?",
+    "correct": "Jordan",
+    "wrong": [
+      "Nile",
+      "Euphrates",
+      "Tigris"
+    ],
+    "ref": "Matthew 3:13",
+    "category": "New Testament"
+  },
+  {
+    "q": "Who did Amnon love, and then hate even more than he had loved her?",
+    "correct": "Tamar",
+    "wrong": [
+      "Jonah",
+      "Nicodemus",
+      "Peter"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In the letter to the Corinthians, who does Paul say is a “new creature”?",
+    "correct": "Any man in Christ",
+    "wrong": [
+      "Mary",
+      "Abraham",
+      "Lazarus"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "The Lord said that Jacob and Esau were two what in the womb?",
+    "correct": "Nations",
+    "wrong": [
+      "Noah",
+      "Daniel",
+      "Seven"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who carried the cross for Christ?",
+    "correct": "Simon of Cyrene",
+    "wrong": [
+      "Nicodemus",
+      "Martha",
+      "Mary"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which Old Testament character showed his faith by being willing to offer his son on an altar to God?",
+    "correct": "Abraham",
+    "wrong": [
+      "Herod",
+      "Barnabas",
+      "Esau"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "What was the affliction of Bartimaeus?",
+    "correct": "Blind",
+    "wrong": [
+      "David",
+      "They sent them away",
+      "They sang hymns"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who sang, “My soul doth magnify the Lord”?",
+    "correct": "Mary",
+    "wrong": [
+      "Thomas",
+      "Elijah",
+      "Silas"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In the Sermon on the Mount, what does Jesus say you should do when you fast?",
+    "correct": "Anoint your head, and wash your face",
+    "wrong": [
+      "Esau",
+      "Jonah",
+      "Three"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "How did Saul die?",
+    "correct": "Fell on his own sword",
+    "wrong": [
+      "Ruth",
+      "Elijah",
+      "Timothy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did Jesus do at the Last Supper to his disciples?",
+    "correct": "Washed their feet",
+    "wrong": [
+      "Moses",
+      "John",
+      "They asked questions"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Which human author wrote Galatians?",
+    "correct": "Paul",
+    "wrong": [
+      "Elijah",
+      "Ruth",
+      "Aaron"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What book of the Bible follows Philemon?",
+    "correct": "Hebrews",
+    "wrong": [
+      "Job",
+      "Twelve",
+      "Martha"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "Who wrote the letter to Philemon?",
+    "correct": "Paul",
+    "wrong": [
+      "Abraham",
+      "Herod",
+      "Philip"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Why should a father not “provoke a child to anger”?",
+    "correct": "In case they become discouraged",
+    "wrong": [
+      "Thomas",
+      "Samuel",
+      "Jonah"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did Jesus say to those who accused the adulteress?",
+    "correct": "He that is without sin, let him first cast a stone",
+    "wrong": [
+      "Ruth",
+      "Adam",
+      "David"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "From which part of Adam’s body did God create Eve?",
+    "correct": "Rib",
+    "wrong": [
+      "Joshua",
+      "Mary",
+      "Daniel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How did the city that Jonah was sent to react to God’s message of destruction?",
+    "correct": "They repented",
+    "wrong": [
+      "Silas",
+      "Joseph",
+      "Philip"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did the disciples do when people brought their young children to Jesus?",
+    "correct": "They rebuked them",
+    "wrong": [
+      "They sang hymns",
+      "Moses",
+      "They asked questions"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who was the strongest man in the Bible?",
+    "correct": "Samson",
+    "wrong": [
+      "Goliath",
+      "David",
+      "Saul"
+    ],
+    "ref": "Judges 13–16",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Which prophet said, “Out of Egypt have I called my son”?",
+    "correct": "Hosea",
+    "wrong": [
+      "Timothy",
+      "Philip",
+      "Andrew"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In which Jewish month is the Passover?",
+    "correct": "Abib",
+    "wrong": [
+      "Seventy",
+      "Jonah",
+      "Esau"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was the name of the temple gate at which the lame man was laid daily?",
+    "correct": "Beautiful Gate",
+    "wrong": [
+      "Daniel",
+      "Psalms",
+      "Revelation"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How did Paul escape from Damascus?",
+    "correct": "In a basket down the city wall",
+    "wrong": [
+      "Genesis",
+      "Ruth",
+      "Jonah"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What miracle did Jesus do for Lazarus?",
+    "correct": "Raised him from the dead",
+    "wrong": [
+      "Martha",
+      "Elisha",
+      "Esau"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who bought Joseph?",
+    "correct": "Potiphar, captain of the Pharaoh's guards",
+    "wrong": [
+      "Aaron",
+      "Pilate",
+      "Daniel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is in the hypocrite’s eye?",
+    "correct": "A beam",
+    "wrong": [
+      "Abraham",
+      "Paul",
+      "Moses"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "For how many years did the Israelites wander in the wilderness?",
+    "correct": "Forty",
+    "wrong": [
+      "Two",
+      "Three hundred",
+      "Five"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did the earth look like in the beginning?",
+    "correct": "Without form and empty",
+    "wrong": [
+      "Solomon",
+      "Joseph",
+      "They gave gifts"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was Paul’s profession?",
+    "correct": "Tentmaker",
+    "wrong": [
+      "Three hundred",
+      "Six",
+      "Seventy"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What was the content of the cupbearer’s dream interpreted by Joseph?",
+    "correct": "A vine bringing forth grapes which are pressed into a cup",
+    "wrong": [
+      "John",
+      "They welcomed them",
+      "Abraham"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which judge unknowingly vowed his daughter to the Lord as a burnt offering?",
+    "correct": "Jephthah",
+    "wrong": [
+      "Noah",
+      "Three",
+      "Esau"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What object did Gideon place on the ground to receive a sign from God?",
+    "correct": "Fleece",
+    "wrong": [
+      "Peter",
+      "Rome",
+      "Abraham"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What disease did the Lord send upon Miriam?",
+    "correct": "Leprosy",
+    "wrong": [
+      "David",
+      "Forty",
+      "Abel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is “sanctified by the word of God and prayer”?",
+    "correct": "God’s creation",
+    "wrong": [
+      "Twelve",
+      "Abel",
+      "Esther"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did the Israelites do whilst Moses was receiving the Ten Commandments from God?",
+    "correct": "Made a golden calf",
+    "wrong": [
+      "They asked questions",
+      "They gave gifts",
+      "Abraham"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who was the first man?",
+    "correct": "Adam",
+    "wrong": [
+      "Noah",
+      "Abraham",
+      "Cain"
+    ],
+    "ref": "Genesis 2:7",
+    "category": "Old Testament"
+  },
+  {
+    "q": "What is the 1st petition?",
+    "correct": "Hallowed be your name",
+    "wrong": [
+      "Forty",
+      "Seventy",
+      "Three"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which nation does Jeremiah say is dwelling in Gad?",
+    "correct": "Ammon",
+    "wrong": [
+      "Jacob",
+      "Ten",
+      "Noah"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was David’s occupation before he became king?",
+    "correct": "Shepherd",
+    "wrong": [
+      "John",
+      "Solomon",
+      "They asked questions"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Jesus was a high priest after the order of which ancient king, mentioned in Psalm 110?",
+    "correct": "Melchizedek",
+    "wrong": [
+      "Aaron",
+      "Solomon",
+      "Noah"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What “doeth good like a medicine”?",
+    "correct": "A merry heart",
+    "wrong": [
+      "Joshua",
+      "Barnabas",
+      "Twelve"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "On what day of creation did God rest?",
+    "correct": "The seventh day",
+    "wrong": [
+      "The sixth day",
+      "The first day",
+      "The third day"
+    ],
+    "ref": "Genesis 2:2",
+    "category": "Old Testament"
+  },
+  {
+    "q": "How many books are in the New Testament?",
+    "correct": "27",
+    "wrong": [
+      "39",
+      "66",
+      "22"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "In Zechariah, the prophet has a vision of a man riding a red horse and standing under what kind of tree?",
+    "correct": "Myrtle",
+    "wrong": [
+      "Abraham",
+      "Samuel",
+      "Moses"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who cut off a soldier's ear when Jesus was being arrested?",
+    "correct": "Peter",
+    "wrong": [
+      "Abraham",
+      "Mary",
+      "Jacob"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "“The legs of the lame hanging limp” are like what in the mouth of fools?",
+    "correct": "A parable",
+    "wrong": [
+      "Barnabas",
+      "Forty",
+      "Seventy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was Jacob’s grandfather?",
+    "correct": "Abraham",
+    "wrong": [
+      "Elijah",
+      "Aaron",
+      "Samson"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who said “thy God shall be my God”?",
+    "correct": "Ruth",
+    "wrong": [
+      "Esau",
+      "Lazarus",
+      "Elijah"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who led the people of Israel into the Promised Land?",
+    "correct": "Joshua",
+    "wrong": [
+      "Abraham",
+      "Daniel",
+      "Solomon"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How did Adam and Eve feel about their nakedness at first?",
+    "correct": "They were not ashamed",
+    "wrong": [
+      "Timothy",
+      "Adam",
+      "Twelve"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which judge killed Eglon, King of Moab?",
+    "correct": "Ehud",
+    "wrong": [
+      "Jonah",
+      "Abel",
+      "Samuel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Besides preaching, name an activity Jesus did while traveling in Galilee.",
+    "correct": "Healing the sick and casting out demons.",
+    "wrong": [
+      "Abel",
+      "David",
+      "Daniel"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Which female judge described herself as “a mother in Israel”?",
+    "correct": "Deborah",
+    "wrong": [
+      "Three",
+      "Seven",
+      "Mary"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was Solomon famous for building?",
+    "correct": "Temple",
+    "wrong": [
+      "They gave gifts",
+      "Joseph",
+      "Abraham"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who gave thanks to the Lord when she saw the baby Jesus?",
+    "correct": "Anna the Prophetess",
+    "wrong": [
+      "Nicodemus",
+      "Samuel",
+      "Abel"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What did Samson find in the carcass of the animal he had killed at a later time?",
+    "correct": "Bees and honey",
+    "wrong": [
+      "Seven",
+      "Ten",
+      "Five thousand"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In which book of prophecy do we read about the valley of dry bones?",
+    "correct": "Ezekiel",
+    "wrong": [
+      "Thomas",
+      "Aaron",
+      "Cain"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "What was the occupation of Hosea’s wife?",
+    "correct": "Harlot",
+    "wrong": [
+      "Solomon",
+      "David",
+      "They sang hymns"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which musical instrument did David play for Saul?",
+    "correct": "Harp / Lyre",
+    "wrong": [
+      "John",
+      "Moses",
+      "Peter"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How many times did Jesus say you should forgive your brother when he sins against you?",
+    "correct": "Seventy times seven",
+    "wrong": [
+      "Twelve",
+      "Six",
+      "One hundred"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who was the Persian king when the rebuilding of the temple after the exile was finally complete?",
+    "correct": "Darius",
+    "wrong": [
+      "Samson",
+      "Barnabas",
+      "Jacob"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who did Laban trick Jacob into marrying?",
+    "correct": "Leah.",
+    "wrong": [
+      "David",
+      "Thomas",
+      "Aaron"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How many books are in the Old Testament?",
+    "correct": "39",
+    "wrong": [
+      "27",
+      "66",
+      "46"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "How many sections (or books) is the book of Psalms split into?",
+    "correct": "Five",
+    "wrong": [
+      "Ten",
+      "One",
+      "Seven"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "According to Job, what is the hope of “a tree that is cut down”?",
+    "correct": "It will sprout again",
+    "wrong": [
+      "Noah",
+      "Lazarus",
+      "John"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "During Paul’s third missionary journey, roughly for how long did he minister in the school of Tyrannus at Ephesus?",
+    "correct": "Two years",
+    "wrong": [
+      "Five thousand",
+      "Six",
+      "One hundred"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Which Christian doctrine did the Sadducees reject?",
+    "correct": "Resurrection",
+    "wrong": [
+      "Moses",
+      "Barnabas",
+      "Jacob"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "With what was Jesus’ side pierced?",
+    "correct": "Spear",
+    "wrong": [
+      "Barnabas",
+      "Adam",
+      "Isaac"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What did Boaz say Naomi was selling?",
+    "correct": "A parcel of land",
+    "wrong": [
+      "Paul",
+      "Samson",
+      "Abraham"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In the parable of the lamp, where is the candle to be “set once it is lit”?",
+    "correct": "In a candlestick",
+    "wrong": [
+      "Babylon",
+      "Canaan",
+      "Samaria"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Where did Paul leave the sick Trophimus?",
+    "correct": "Miletum (Miletus)",
+    "wrong": [
+      "Judea",
+      "Damascus",
+      "Jerusalem"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What is the shortest book in the New Testament?",
+    "correct": "3 John",
+    "wrong": [
+      "Jude",
+      "Philemon",
+      "2 John"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "What was the name of the prophet who prophesied that Paul would be bound at Jerusalem?",
+    "correct": "Agabus",
+    "wrong": [
+      "Gideon",
+      "Isaiah",
+      "John"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "How many years did Jacob live for?",
+    "correct": "147",
+    "wrong": [
+      "One",
+      "Six",
+      "Three"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How old was Joseph when he died? Where was David born?",
+    "correct": "110",
+    "wrong": [
+      "Damascus",
+      "Babylon",
+      "Judea"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "On which day of the creation did God create trees and plants?",
+    "correct": "Third",
+    "wrong": [
+      "Isaac",
+      "Cain",
+      "Martha"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How did Moses' mother save him from the Egyptian soldiers?",
+    "correct": "Put him in a basket in the river.",
+    "wrong": [
+      "Joshua",
+      "Philip",
+      "Mary"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "What is the 7th commandment?",
+    "correct": "You shall not commit adultery.",
+    "wrong": [
+      "Samson",
+      "Moses",
+      "Peter"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Jesus said not to “swear by your head” because you cannot do what?",
+    "correct": "Make one hair black or white",
+    "wrong": [
+      "One hundred",
+      "Three",
+      "Six"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Name one of Jesus' brothers?",
+    "correct": "James, Joseph, Simon and Judas",
+    "wrong": [
+      "Ruth",
+      "John",
+      "Thomas"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Where was Solomon anointed?",
+    "correct": "Gihon",
+    "wrong": [
+      "Rome",
+      "Canaan",
+      "Jerusalem"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How does James say we should “treat the rich and the poor”?",
+    "correct": "Do not judge them, but treat them impartially",
+    "wrong": [
+      "Esther",
+      "Abraham",
+      "John"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is the last book in the Bible?",
+    "correct": "Revelation",
+    "wrong": [
+      "Ruth",
+      "Romans",
+      "Exodus"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "Noah was a “preacher” of what?",
+    "correct": "Righteousness",
+    "wrong": [
+      "Jacob",
+      "Samuel",
+      "Abel"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How many plagues did God send on Egypt?",
+    "correct": "Ten",
+    "wrong": [
+      "One",
+      "Two",
+      "Five thousand"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Demetrius, of Ephesus was a...?",
+    "correct": "Silversmith",
+    "wrong": [
+      "John",
+      "Job",
+      "Genesis"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who slept under a juniper tree after fleeing for his life?",
+    "correct": "Elijah",
+    "wrong": [
+      "Abel",
+      "Aaron",
+      "Thomas"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was the first thing Noah built when he came out of the ark?",
+    "correct": "Altar",
+    "wrong": [
+      "They welcomed them",
+      "They prayed for them",
+      "They sang hymns"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who was Saul?",
+    "correct": "He persecuted Christians",
+    "wrong": [
+      "Adam",
+      "Moses",
+      "Esau"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was the first child born?",
+    "correct": "Cain",
+    "wrong": [
+      "Judas",
+      "Paul",
+      "Joshua"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did the dove bring back to Noah?",
+    "correct": "Olive leaf",
+    "wrong": [
+      "They ignored them",
+      "They asked questions",
+      "Joseph"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How did Esau provide food for the family?",
+    "correct": "He hunted.",
+    "wrong": [
+      "Abraham",
+      "Jacob",
+      "Seven"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Zacharias and Elizabeth were told by an angel that they would have a son. What was he to be called?",
+    "correct": "John",
+    "wrong": [
+      "Abraham",
+      "Elisha",
+      "Silas"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who wrote most of the New Testament letters?",
+    "correct": "Paul",
+    "wrong": [
+      "Peter",
+      "John",
+      "James"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "One of the ten plagues of Egypt was the plague of boils, but which number was it?",
+    "correct": "Sixth",
+    "wrong": [
+      "Ten",
+      "Seventy",
+      "Four"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What miracle had Jesus performed when he said, “It is I; be not afraid”?",
+    "correct": "Walking on water",
+    "wrong": [
+      "Nicodemus",
+      "Aaron",
+      "Moses"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What sin is Cain remembered for?",
+    "correct": "Murder",
+    "wrong": [
+      "Timothy",
+      "Joshua",
+      "Peter"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What does the name Abraham mean?",
+    "correct": "Father of a multitude",
+    "wrong": [
+      "Seventy",
+      "Abel",
+      "Abraham"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "What is the longest book in the Bible?",
+    "correct": "Psalms",
+    "wrong": [
+      "Isaiah",
+      "Genesis",
+      "Jeremiah"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "Where did David spare Saul's life the second time?",
+    "correct": "In the camp where Saul was sleeping",
+    "wrong": [
+      "Damascus",
+      "Canaan",
+      "Ur"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How did the sailors discover Jonah was responsible for the storm?",
+    "correct": "Cast lots",
+    "wrong": [
+      "Job",
+      "Esther",
+      "Seventy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In which town did Martha and Mary live?",
+    "correct": "Bethany",
+    "wrong": [
+      "Jeremiah",
+      "Job",
+      "Elisha"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "After the Babylonian exile, the Jews sought wealth and possessions for themselves. What should they have been doing?",
+    "correct": "Rebuilding the temple",
+    "wrong": [
+      "Abraham",
+      "Lazarus",
+      "Timothy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What does Zechariah see in a vision that destroys the houses of thieves and liars?",
+    "correct": "A thirty foot flying roll",
+    "wrong": [
+      "Joshua",
+      "Philip",
+      "Job"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In which book of the Bible would you find the record of Balaam and his donkey?",
+    "correct": "Numbers",
+    "wrong": [
+      "Joshua",
+      "Jonah",
+      "John"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "How many spies did Moses send out to explore the land of Canaan?",
+    "correct": "Twelve",
+    "wrong": [
+      "Three",
+      "Seventy",
+      "Three hundred"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who asked Jesus to remember him when he came into his kingdom?",
+    "correct": "The criminal on the cross",
+    "wrong": [
+      "Jonah",
+      "John",
+      "Ruth"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who was the king of Judea at the time of Jesus’ birth?",
+    "correct": "Herod (the Great)",
+    "wrong": [
+      "Samson",
+      "Esau",
+      "Joseph"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What was unusual about the 700 Benjamite soldiers who could sling a stone and hit their target every time?",
+    "correct": "They were all left-handed",
+    "wrong": [
+      "Elijah",
+      "Elisha",
+      "Joseph"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In which book of the Bible does the story of Noah’s ark appear?",
+    "correct": "Genesis",
+    "wrong": [
+      "Job",
+      "Matthew",
+      "Daniel"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Which gospel records the fewest of the miracles performed by Jesus?",
+    "correct": "John",
+    "wrong": [
+      "Cain",
+      "Solomon",
+      "Abel"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "For how many days did Jesus appear to his disciples after his resurrection?",
+    "correct": "Forty",
+    "wrong": [
+      "Six",
+      "Four",
+      "Two"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What day did God create man?",
+    "correct": "6th",
+    "wrong": [
+      "Seven",
+      "Ten",
+      "Solomon"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which Israelite woman had two Moabite daughters-in-law?",
+    "correct": "Naomi",
+    "wrong": [
+      "Herod",
+      "Elisha",
+      "Joshua"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How many companions did the Philistines give to Samson at the feast in Timnah?",
+    "correct": "Thirty",
+    "wrong": [
+      "Three",
+      "Four",
+      "Two"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Whose mother placed him in an ark of bulrushes?",
+    "correct": "Moses",
+    "wrong": [
+      "Daniel",
+      "Timothy",
+      "Samson"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did God give Moses on Mount Sinai?",
+    "correct": "The Ten Commandments",
+    "wrong": [
+      "The Ark of the Covenant",
+      "Manna",
+      "A new name"
+    ],
+    "ref": "Exodus 20",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Of what did Peter and John heal the man at the temple gate called Beautiful?",
+    "correct": "Lameness",
+    "wrong": [
+      "Esther",
+      "Matthew",
+      "Proverbs"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Which disciple tried to walk on water, as Jesus did?",
+    "correct": "(Simon) Peter",
+    "wrong": [
+      "John",
+      "Paul",
+      "Abraham"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "To which tribe did Anna the prophetess belong?",
+    "correct": "Asher",
+    "wrong": [
+      "Solomon",
+      "Elijah",
+      "Samuel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is the name of the disciple who betrayed Jesus?",
+    "correct": "Judas Iscariot",
+    "wrong": [
+      "Samuel",
+      "Noah",
+      "Martha"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What was Jonah found doing on the ship while the storm was raging?",
+    "correct": "Sleeping",
+    "wrong": [
+      "They ignored them",
+      "Solomon",
+      "Joseph"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did Athaliah do when she saw her son, Ahaziah, was dead?",
+    "correct": "Destroyed the rest of the royal family",
+    "wrong": [
+      "Joseph",
+      "They sang hymns",
+      "They ignored them"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What is the first recorded dream of Joseph, son of Jacob?",
+    "correct": "Sheaves of wheat bowing down to other sheaves",
+    "wrong": [
+      "Three",
+      "Noah",
+      "Cain"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What were the restrictions on marriage for the daughters of Zelophehad?",
+    "correct": "They must marry within their tribe",
+    "wrong": [
+      "Elijah",
+      "Forty",
+      "Esther"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was Paul referring to when he said, “May the Lord grant mercy to his household, for he often refreshed me and was not ashamed of my chains”?",
+    "correct": "Onesiphorus",
+    "wrong": [
+      "Peter",
+      "Lazarus",
+      "Andrew"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "How many horns did the ram in Daniel’s vision have?",
+    "correct": "Two",
+    "wrong": [
+      "One",
+      "Seven",
+      "Seventy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which city did David pray for the peace of?",
+    "correct": "Jerusalem",
+    "wrong": [
+      "Babylon",
+      "Samaria",
+      "Galilee"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Whose handkerchiefs were able to heal the sick?",
+    "correct": "Paul",
+    "wrong": [
+      "Herod",
+      "Noah",
+      "Jonah"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In the Sermon on the Mount, what did Jesus say would happen to the meek?",
+    "correct": "They will inherit the earth",
+    "wrong": [
+      "They welcomed them",
+      "Solomon",
+      "They asked questions"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who was well reported of at Lystra and Iconium?",
+    "correct": "Timothy",
+    "wrong": [
+      "Abel",
+      "Samson",
+      "Paul"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was exiled to an island?",
+    "correct": "John",
+    "wrong": [
+      "Martha",
+      "Elisha",
+      "Paul"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Why did the kinsman not want to marry Ruth?",
+    "correct": "Didn’t want to spoil his inheritance",
+    "wrong": [
+      "Job",
+      "Silas",
+      "Daniel"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was the name of the garden where Adam and Eve lived?",
+    "correct": "Eden",
+    "wrong": [
+      "Gethsemane",
+      "Paradise",
+      "Canaan"
+    ],
+    "ref": "Genesis 2:8",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Name Jesus' hometown.",
+    "correct": "Nazareth",
+    "wrong": [
+      "Bethlehem",
+      "Damascus",
+      "Samaria"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What does James say “envying and strife in your heart” brings?",
+    "correct": "Confusion and every evil work",
+    "wrong": [
+      "Gideon",
+      "Aaron",
+      "Lazarus"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was Jesus’ first miracle?",
+    "correct": "Changing water into wine",
+    "wrong": [
+      "Abel",
+      "Timothy",
+      "Elisha"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Christ was led away to which high priest first?",
+    "correct": "Annas",
+    "wrong": [
+      "Thomas",
+      "Barnabas",
+      "David"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who was Jacob’s first wife?",
+    "correct": "Leah",
+    "wrong": [
+      "Adam",
+      "Joseph",
+      "John"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What animal spoke to Balaam?",
+    "correct": "Donkey",
+    "wrong": [
+      "Seventy",
+      "Daniel",
+      "Andrew"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "True or False: The Bible was first written in the English language?",
+    "correct": "False",
+    "wrong": [
+      "Paul",
+      "John",
+      "Abraham"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which kind of bird did Jesus say were “sold two for a farthing”?",
+    "correct": "Sparrows",
+    "wrong": [
+      "Samson",
+      "Abraham",
+      "Solomon"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who wrote the majority of the New Testament letters?",
+    "correct": "Paul",
+    "wrong": [
+      "Jonah",
+      "Isaiah",
+      "John"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "When Moses confronted the Pharaoh, what did his staff turn into when he threw it on the ground?",
+    "correct": "A snake",
+    "wrong": [
+      "Abraham",
+      "They prayed for them",
+      "Peter"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who was Jesus' mother?",
+    "correct": "Mary",
+    "wrong": [
+      "Martha",
+      "Elizabeth",
+      "Ruth"
+    ],
+    "ref": "Matthew 1:18",
+    "category": "New Testament"
+  },
+  {
+    "q": "According to the Bible what sort of man was Noah?",
+    "correct": "Just / Godly / Blameless",
+    "wrong": [
+      "Andrew",
+      "Seventy",
+      "Timothy"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "How did God make them spread out across the earth?",
+    "correct": "Confused their languages.",
+    "wrong": [
+      "Joshua",
+      "Abel",
+      "Esther"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Jesus used a little child to show the futility of an argument among the disciples. What were they arguing about?",
+    "correct": "Who is the greatest in heaven",
+    "wrong": [
+      "Jacob",
+      "Andrew",
+      "Thomas"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "Who were the first two disciples to be called?",
+    "correct": "Simon (Peter) and Andrew",
+    "wrong": [
+      "Jonah",
+      "Samuel",
+      "Aaron"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "A “soft answer turneth away...” what?",
+    "correct": "Wrath",
+    "wrong": [
+      "Forty",
+      "Jacob",
+      "Barnabas"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which book of prophecy was the Ethiopian eunuch reading from?",
+    "correct": "Isaiah",
+    "wrong": [
+      "Elijah",
+      "Pilate",
+      "Job"
+    ],
+    "category": "Books of the Bible"
+  },
+  {
+    "q": "Name the demon Jesus cast out in the region of the Gerasenes?",
+    "correct": "Legion",
+    "wrong": [
+      "Philip",
+      "Solomon",
+      "Twelve"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "What was the reason that Jacob and his family began a new life in Egypt?",
+    "correct": "Famine in Canaan",
+    "wrong": [
+      "They sent them away",
+      "They ignored them",
+      "They prayed for them"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Who ran from Mount Carmel to Samaria faster than Ahab could drive his chariot?",
+    "correct": "Elijah",
+    "wrong": [
+      "Pilate",
+      "John",
+      "Noah"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Where did Hagar and her son leave to?",
+    "correct": "Into the desert",
+    "wrong": [
+      "Sinai",
+      "Egypt",
+      "Rome"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Peacocks were imported by which king of Israel?",
+    "correct": "Solomon",
+    "wrong": [
+      "Nicodemus",
+      "David",
+      "Adam"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What was the second plague upon Egypt?",
+    "correct": "Frogs",
+    "wrong": [
+      "Peter",
+      "David",
+      "Moses"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "What did David use to kill Goliath?",
+    "correct": "A sling and a stone",
+    "wrong": [
+      "A sword",
+      "A spear",
+      "His bare hands"
+    ],
+    "ref": "1 Samuel 17:49",
+    "category": "Old Testament"
+  },
+  {
+    "q": "Name the disciple who betrayed Jesus.",
+    "correct": "Judas Iscariot",
+    "wrong": [
+      "David",
+      "Isaac",
+      "Lazarus"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "In his Sermon on the Mount, what does Jesus say about tomorrow?",
+    "correct": "Take no thought for it",
+    "wrong": [
+      "Timothy",
+      "Twelve",
+      "Seventy"
+    ],
+    "category": "New Testament"
+  },
+  {
+    "q": "How did Samson die?",
+    "correct": "Pushing over the temple pillars, killing himself and many Philistines.",
+    "wrong": [
+      "Samson",
+      "David",
+      "Timothy"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "Which king in the Old Testament built the first temple in Jerusalem?",
+    "correct": "Solomon",
+    "wrong": [
+      "Adam",
+      "Cain",
+      "Jeremiah"
+    ],
+    "category": "Old Testament"
+  },
+  {
+    "q": "Who was the first woman?",
+    "correct": "Eve",
+    "wrong": [
+      "Sarah",
+      "Ruth",
+      "Mary"
+    ],
+    "ref": "Genesis 2:22",
+    "category": "Old Testament"
+  },
+  {
+    "q": "How many men and women were in the temple to watch Samson entertain them?",
+    "correct": "3,000",
+    "wrong": [
+      "Six",
+      "Five",
+      "Three hundred"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "In what month of Elisabeth’s pregnancy did the angel appear to Mary?",
+    "correct": "Sixth",
+    "wrong": [
+      "Two",
+      "Three hundred",
+      "Five"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How many horsemen are there in Revelation chapter 6?",
+    "correct": "Four",
+    "wrong": [
+      "Ten",
+      "Five",
+      "Three hundred"
+    ],
+    "category": "Bible Knowledge"
+  },
+  {
+    "q": "How many days was Jesus in the tomb?",
+    "correct": "Three",
+    "wrong": [
+      "One",
+      "Seven",
+      "Forty"
+    ],
+    "ref": "Matthew 12:40",
+    "category": "New Testament"
+  }
+]
